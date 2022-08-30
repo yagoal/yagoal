@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yago Augusto
 
-I'm a Junior Swift Developer and Beginner Web and Java Developer
+I'm Swift Developer and Beginner Web and Java Developer
 
 Here are some ideas to get you started:
 
