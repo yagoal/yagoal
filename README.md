@@ -5,7 +5,7 @@ I'm Swift Developer and Beginner Web and Java Developer
 Here are some ideas to get you started:
 
 - 🔭 I am currently working at Stone Co, as an iOS developer
-- 🌱 I’m currently learning RxSwift and Java Spring
+- 🌱 I’m currently learning RxSwift and SwiftUI
 - ⚡ Fun fact: former brazilian army officer 
 
 <br>
