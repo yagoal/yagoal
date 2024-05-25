@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Yago Augusto, also known as yagoal.
 
-I'm a Swift Developer with experience in UIKit, RxSwift, and iOS layout creation. I'm also a beginner in web and Java development. Currently, I work at Stone Co as an iOS developer, where I use SwiftUI and Combine for iOS projects. Additionally, I'm exploring Kotlin Multiplatform Mobile (KMM) as a beginner.
+I'm a Swift Developer with experience in UIKit, RxSwift, and iOS layout creation. Currently, I work at Stone Co as an iOS developer, where I use SwiftUI and Combine for iOS projects. Additionally, I'm exploring Kotlin Multiplatform Mobile (KMM) as a beginner.
 
 #### Languages and Tools:
 - Swift
