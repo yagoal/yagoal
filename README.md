@@ -8,7 +8,7 @@ I'm a Swift Developer with experience in UIKit, RxSwift, and iOS layout creation
 - UIKit
 - RxSwift
 - Combine
-- Kotlin (beginner)
+- Kotlin
 
 #### GitHub Stats:
 ![Yago Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagoal&show_icons=true&count_private=true&theme=radical)
