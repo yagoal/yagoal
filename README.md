@@ -1,24 +1,38 @@
+# Hi there 👋 I'm Yago Augusto (yagoal)
 
-### Hi there! 👋 I'm Yago Augusto, also known as yagoal.
+Senior iOS / Mobile Engineer with strong experience building scalable, high-quality mobile applications.
 
-I'm a Swift Developer with experience in UIKit, RxSwift, and iOS layout creation. Currently, I work at Stone Co as an iOS developer, where I use SwiftUI and Combine for iOS projects. Additionally, I'm exploring Kotlin Multiplatform Mobile (KMM) as a beginner.
+Currently working mainly with **Swift, SwiftUI and UIKit**, focusing on performance, architecture and long-term maintainability.  
+I also have solid experience with **mobile integrations across platforms**, including **Kotlin Multiplatform (KMP), Flutter and React Native**, acting on shared business logic, API integration and platform interoperability.
 
-#### Languages and Tools:
-- Swift
-- SwiftUI
-- UIKit
-- RxSwift
-- Combine
-- Kotlin
+## 🛠 Tech Stack
 
-#### GitHub Stats:
-![Yago Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagoal&show_icons=true&count_private=true&theme=radical)
+### 📱 Mobile
+- Swift • SwiftUI • UIKit  
+- Combine • RxSwift  
+- MVVM • VIP • Clean Architecture  
+- Modularization & Design Systems  
 
-#### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoal&layout=compact&theme=radical)
+### 🔗 Cross-platform & Integrations
+- Kotlin • Kotlin Multiplatform (KMP)
+- Flutter
+- React Native
+- Native ↔ Cross-platform integration (iOS focus)
 
-Feel free to explore my repositories and get in touch!
+### ⚙️ Tooling & Backend
+- Git • CI/CD
+- Firebase (Auth, Firestore, Analytics)
+- REST APIs • GraphQL
 
-### Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-augusto-18018a168/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:br.yago@gmail.com)
+## 📌 What I care about
+- Clean, scalable architectures
+- Developer experience and maintainability
+- Performance & memory efficiency
+- Building products that scale with teams and business
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yago%20Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-augusto-18018a168/)
+[![Email](https://img.shields.io/badge/Email-br.yago@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:br.yago@gmail.com)
